@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iinitekaze 
-- 🌱 I’m currently learning Front-End, JS
+- 🌱 愛しています
 - 
 
 
